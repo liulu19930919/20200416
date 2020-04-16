@@ -1,0 +1,3 @@
+:q
+#include "helljajg"
+jj
